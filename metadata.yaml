@@ -1,0 +1,27 @@
+_repo: Poetry-of-the-Supernatural_39494
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Walbridge, Earle Francis
+    alias: Walbridge, Earle F.
+    birthdate: 1896
+    deathdate: 1962
+    gutenberg_agent_id: '41240'
+    url: http://www.gutenberg.org/2009/agents/41240
+covers:
+- cover_type: archival
+  image_path: 39494-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2012-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Supernatural -- Poetry -- Bibliography'
+- !lcc 'Z'
+title: Poetry of the Supernatural
+url: http://www.gutenberg.org/ebooks/39494
